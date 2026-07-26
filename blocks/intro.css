@@ -36,3 +36,37 @@
   font-size: 16px;
   line-height: 1.63;
 }
+
+@media screen and (max-width: 768px) {
+  .intro__content {
+    max-width: 720px;
+  }
+
+  .intro__title {
+    max-width: 707px;
+    font-size: 45px;
+    line-height: 49px;
+  }
+
+  .intro__text {
+    font-size: 16px;
+    line-height: 1.63;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro__content {
+    max-width: 288px;
+  }
+
+  .intro__title {
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 35px;
+  }
+
+  .intro__text {
+    font-size: 24px;
+    line-height: 30px;
+  }
+}
