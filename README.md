@@ -32,6 +32,6 @@ Foram utilizadas Media Queries para adaptar o layout, as imagens, os textos e ou
 
 ## GitHub Pages
 
-Acesse o projeto publicado:
+Acesse o projeto publicado: https://rhudsonrafhael.github.io/web_project_homeland/
 
 [Projeto Homeland]
